@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+/.github
+/.github/classroom/autograding.json
+/.github/workflows/classroom.yml
